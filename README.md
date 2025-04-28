@@ -6,17 +6,6 @@ All programs are manually written without the use of an IDE, assembled and linke
 
 ---
 
-## Folder Structure
-
-- `01-Basic-Operations/` — Basic MOV, ADD, CMP operations and simple branching.
-- `02-Memory-Traversal/` — Loading values from memory lists and pointer walking.
-- `03-Loops-and-Branching/` — Looping through memory, conditionally processing values.
-- `04-Accumulator-Programs/` — Programs managing multiple accumulators (e.g., large_sum, small_sum).
-- `05-Conditional-Processing/` — Advanced branching based on value comparison logic.
-- `06-Terminal-Syscalls/` — Writing messages to the terminal using Linux syscalls.
-- `07-Mini-Mastery-Challenges/` — Complete projects combining memory traversal, conditionals, accumulators, and syscalls.
-
----
 
 ## Technologies Used
 
