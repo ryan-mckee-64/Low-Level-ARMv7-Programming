@@ -6,7 +6,7 @@ All programs are manually written without the use of an IDE, assembled and linke
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 - `01-Basic-Operations/` — Basic MOV, ADD, CMP operations and simple branching.
 - `02-Memory-Traversal/` — Loading values from memory lists and pointer walking.
