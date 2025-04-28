@@ -11,7 +11,7 @@
 @     - Print "Small wins", "Large wins", or "Tie!".
 @ - End program cleanly (optional infinite loop).
 
-@BEGING CHALLENGE
+@BEGIN CHALLENGE
 
 .global _start                          @defining global reference to _start:
 .section .text                          @creating text section for code
