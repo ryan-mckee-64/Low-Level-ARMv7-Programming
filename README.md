@@ -1,4 +1,4 @@
- ARMv7 Assembly Projects
+# ARMv7 Assembly Projects
 
 This repository contains a collection of ARMv7-A assembly language programs focused on low-level system programming concepts. Projects include memory traversal, conditional branching, accumulator management, syscall interface handling, and clean control flow design.
 
@@ -7,7 +7,7 @@ All programs are manually written without the use of an IDE, assembled and linke
 ---
 
 
- Technologies Used
+## Technologies Used
 
 - **Architecture:** ARMv7-A (32-bit ARM architecture)
 - **Assembler:** GNU `as` (GNU assembler)
@@ -17,7 +17,7 @@ All programs are manually written without the use of an IDE, assembled and linke
 
 ---
 
- What I've Practiced
+## What I've Practiced
 
 - Manual memory traversal
 - Looping with conditional branches (BGT, BLE, BEQ)
@@ -27,7 +27,7 @@ All programs are manually written without the use of an IDE, assembled and linke
 
 ---
 
- Future Plans
+## Future Plans
 
 - Expand into more complex subroutine management (BL, BX LR)
 - Implement nested loops and multi-level branching
@@ -36,6 +36,6 @@ All programs are manually written without the use of an IDE, assembled and linke
 
 ---
 
- Disclaimer
+## Disclaimer
 
 These projects are part of a personal low-level systems programming learning journey, starting from basic assembly principles and advancing toward real-world embedded systems and reverse engineering concepts.
